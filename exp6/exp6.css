@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+    display: block;
+    background-color: rgb(231, 240, 228);
+    margin: 150px;
+    padding: 50px;
+    border-radius: 10px;
+}
+.button{ 
+    padding: 5px; 
+    margin: 10px; 
+    background-color: rgb(18, 211, 18); 
+} 
+#name{ 
+    height: 30px; 
+    width: 250px; 
+    border-radius: 10px; 
+    margin-left: 50px; 
+} 
+
+/* #mainHeading{
+    align-items: center;
+    justify-content: center;
+  
+    height: 30px; 
+    width: 250px; 
+    border-radius: 10px;
+    background-color: bisque; 
+    margin-left: 10px; 
+} */

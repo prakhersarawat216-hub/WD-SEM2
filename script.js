@@ -8,5 +8,8 @@
 // else{
 //     console.log("false");
 // }
-var a=100; var b=10; var c=23; var linebreak = "<br>";
-document.write
+// 
+let numbers = [1,2,3,4,5];
+        let square = numbers.map(num => num * num);
+        console.log(square);
+        
