@@ -1,0 +1,23 @@
+{
+  "name": "exp8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd exp8 && npm run dev",
+    "build": "cd exp8 && npm run build",
+    "preview": "cd exp8 && npm run preview",
+    "lint": "cd exp8 && npm run lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "next": "^16.2.6",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  }
+}
