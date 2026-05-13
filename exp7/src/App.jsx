@@ -21,6 +21,7 @@ function App() {
       <Student name="Rahul Sharma"  course="Computer Science"       marks={85} />
       <Student name="Anita Verma"   course="Information Technology" marks={92} />
       <Student name="Rohan Gupta"   course="Electronics"            marks={78} />
+      <p>Prakher Sarawat <br />Roll No: 2503201000838 <br />CSE-26</p>
     </div>
   )
 }
@@ -30,3 +31,4 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+
