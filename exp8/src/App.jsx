@@ -33,6 +33,7 @@ function App() {
         </button>
 
       </div>
+      <p className="author">Prakher Sarawat <br /> 2503201000838 <br />CSE-26</p>
 
     </div>
   );
